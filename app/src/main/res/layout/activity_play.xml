@@ -56,7 +56,7 @@
         app:layout_constraintVertical_bias="0.89"
         app:srcCompat="@drawable/previous" />
 
-    <de.hdodenhof.circleimageview.CircleImageView
+    <ImageView
         android:id="@+id/img"
         android:layout_width="300dp"
         android:layout_height="300dp"
